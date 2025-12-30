@@ -1,0 +1,4 @@
+Group,Output
+Slogans,"* Purity Refined. Magic Unveiled.* Earth’s Finest, Gold’s Grace.* Tradition Reimagined, Health Restored."
+'Our Story' Blurb,"Born from the earth’s purest A2 milk and organic harvests, MishTee-Magic blends the raw heritage of terracotta with the golden standard of modern wellness. We’ve reinvented the artisanal sweet to be your daily indulgence—low in sugar, yet overflowing with the magic of honest ingredients."
+Collection Names,"* The A2 Ancestry: Our signature range of milk-based classics.* The Gilded Harvest: Organic, low-sugar delights featuring nuts and seeds.* The Saffron Alchemy: Ultra-premium sweets infused with pure Kashmiri Kesar.* The Earth & Grain Series: Innovative, low-gluten treats crafted for the modern palate."
